@@ -1,1 +1,15 @@
-# Introduction-to-Deep-Learning-Neural-Networks-with-Keras
+# Introduction to Deep Learning Neural Networks with Keras
+
+1. [Note1 - Introduction to Deep Learning](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note1%20-%20Introduction%20to%20Deep%20Learning.ipynb)
+  - [Note1.1 - Artificial Neural Networks](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note1.1%20-%20Artificial%20Neural%20Networks.ipynb)
+2. [Note2 - Artificial Neural Networks (Gradient Descent, Backpropagation, Vanishing Gradient, Activation Functions)](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note2%20-%20Artificial%20Neural%20Networks%20(Gradient%20Descent%2C%20Backpropagation%2C%20Vanishing%20Gradient%2C%20Activation%20Functions).ipynb)
+3. [Note3 - Keras and Deep Learning Libraries](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note3%20-%20Keras%20and%20Deep%20Learning%20Libraries.ipynb)
+  - [Note3.1 Regression Models with Keras](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note3.1%20Regression%20Models%20with%20Keras.ipynb)
+  - [Note3.2 Classification Models with Keras](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note3.2%20Classification%20Models%20with%20Keras.ipynb)
+4. [Note4 - Deep Learning Models (Shallow vs Deep, Supervised(CNN, RNN), Unsupervised(Autoencoders))](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note4%20-%20Deep%20Learning%20Models%20(Shallow%20vs%20Deep%2C%20Supervised(CNN%2C%20RNN)%2C%20Unsupervised(Autoencoders)).ipynb)
+  - [Note4.1 - CNNs with Keras](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note4.1%20-%20CNNs%20with%20Keras.ipynb)
+5. Practice
+  - [Note5 - PracticeA - Build a Regression Model in Keras](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note5%20-%20PracticeA%20-%20Build%20a%20Regression%20Model%20in%20Keras.ipynb)
+  - [Note5 - PracticeB - Build a Regression Model in Keras (Normalization)](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note5%20-%20PracticeB%20-%20Build%20a%20Regression%20Model%20in%20Keras%20(Normalization).ipynb)
+  - [Note5 - PracticeC - Build a Regression Model in Keras (Increase the number of epoches)](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note5%20-%20PracticeC%20-%20Build%20a%20Regression%20Model%20in%20Keras%20(Increase%20the%20number%20of%20epoches).ipynb)
+  - [Note5 - PracticeD - Build a Regression Model in Keras (Increase the number of hidden layers)](https://github.com/LakeYang0818/Introduction-to-Deep-Learning-Neural-Networks-with-Keras/blob/main/Note5%20-%20PracticeD%20-%20Build%20a%20Regression%20Model%20in%20Keras%20(Increase%20the%20number%20of%20hidden%20layers).ipynb)
